@@ -1,4 +1,4 @@
-const CACHE_NAME = 'logta-pro-v2';
+const CACHE_NAME = 'logta-pro-v3';
 const urlsToCache = [
   '/logta-industriemeister/',
   '/logta-industriemeister/index.html'
