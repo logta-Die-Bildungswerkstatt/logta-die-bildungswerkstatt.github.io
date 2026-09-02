@@ -11,5 +11,18 @@
         "A4:70:75:06:47:47:AE:D9:7D:3B:9D:04:46:1B:B1:E8:1E:DB:AD:BC:1A:19:EA:24:D1:D2:78:A3:61:65:61:F7"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.logta.lernapplogistiker",
+      "sha256_cert_fingerprints": [
+        "B9:01:DC:33:7A:B4:6F:26:A6:DB:95:D7:FC:13:F8:0C:59:2C:AD:D6:C0:D9:AB:E4:19:3B:CE:5C:53:3C:18:52"
+      ]
+    }
   }
 ]
